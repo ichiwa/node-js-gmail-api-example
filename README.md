@@ -18,3 +18,5 @@ co(function *() {
   console.log(labels);
 });
 ```
+
+My Node.js version is 5.8.0.
